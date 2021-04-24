@@ -7,7 +7,7 @@ Python  : 3.9.4
 <br> requests:  2.25.1
 <br>
 
-<h2>Installing required libraries</h2>
+<h2>Installing required dependencies</h2>
 
 #for windows<br>
 py -3.9-64 -m pip install irc requests
